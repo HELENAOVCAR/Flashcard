@@ -1,19 +1,23 @@
 criaCartao(
+    'Programação',
+    'O que é Python?',
+    'O Python é uma linguagem de programação'
+)
+
+criaCartao(
+    'História',
+    'Em que ano acabou a Segunda Guerra Mundial?',
+    '1945'
+)
+
+criaCartao(
+    'Robotica',
+    'O que signfica a sigla LED?',
+    'Diodo Emissor De Luz'
+)
+
+criaCartao(
     'Biologia',
-    'O que que a fotossíntese?',
-    'Processo de conversão de energia luminosa em química (glicose e oxigênio) por plantas, algas, bactérias.'
-)
-
-criaCartao(
-    'Matemática',
-    'Um carro percorre 240 km em 3 horas. Qual a velocidade média? Se mantiver por +2h, qual a distância total?',
-    'Vm= 240km/3h.= 80km/h
-    Distância adicional: 80 km/h×2 h=160 km.
-    Total: 240 km+160 km=400 km.'
-)
-
-criaCartao(
-    'Robótica',
-    'O que significa a sigla LED?',
-    'Diodo emissor de luz'
+    'O que é Fotossíntese',
+    'É o processo de converão de energia luminosa em química ( glicose e oxigênio )'
 )
